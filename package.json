@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "epic-spinners": "^1.1.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.11",
+    "vue-material": "^1.0.0-beta-14"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
